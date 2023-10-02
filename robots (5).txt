@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jp88.d1duwsub1eewr2.amplifyapp.com/sitemap.xml
